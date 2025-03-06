@@ -17,9 +17,9 @@ npm install express mongoose cors dotenv jsonwebtoken bcryptjs
 
  Create .env file
 
- MONGO_URI=mongodb+srv://your_mongo_connection
+ MONGO_URI=mongodb+srv: //Mongo_connection
  
-JWT_SECRET=your_secret_key
+JWT_SECRET=secret_key
 
 
 Run the backend:
