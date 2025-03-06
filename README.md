@@ -1,5 +1,5 @@
-**Fintech project using React (frontend), Node.js (backend), and MongoDB (database)
-**
+Fintech project using React (frontend), Node.js (backend), and MongoDB (database)
+
 Frontend: React (with Tailwind CSS for styling)
 Backend: Node.js + Express + MongoDB
 Database: MongoDB (using Mongoose)
